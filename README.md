@@ -1,1 +1,2 @@
-this repo is about my electronics projects. gg 
+this repo is about my electronics projects. gg
+commit messages: commit [x] / [description]
