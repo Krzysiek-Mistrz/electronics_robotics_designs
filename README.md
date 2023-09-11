@@ -1,3 +1,4 @@
-this repo is about my electronics projects. gg
-commit messages: commit [x] / [description]
-test 0
+This repo is about my electronics projects. 
+You can find here projects of electrical cirucits designed specifically for robots.
+GG
+commit messages: project [x] / [prj name] / [description]
