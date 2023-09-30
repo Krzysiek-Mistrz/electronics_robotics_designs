@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "arduino-nano-radio-transmitter.kicad_pro",
+    "filename": "arduino-nano-radio-receiver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -324,7 +324,7 @@
   },
   "sheets": [
     [
-      "d9490172-cce4-4de5-848d-de895285794a",
+      "25b61d94-19a7-4430-abc4-0e873b590952",
       ""
     ]
   ],
