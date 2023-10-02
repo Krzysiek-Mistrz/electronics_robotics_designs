@@ -941,17 +941,47 @@
     (uuid eddaa11e-309c-4450-9bd1-948fa9eaa8e2)
   )
 
+  (text "RF ma to do siebie, że jest bardzo wrażliwe na zasilanie. Dodałbym kondek 1-10uF przy samiutkim złączu radia"
+    (at 39.37 90.17 0)
+    (effects (font (size 1.27 1.27) (color 255 32 34 1)) (justify left bottom))
+    (uuid 0485043d-7ef3-4cc7-a347-340d627f0b78)
+  )
+  (text "ALE upewnij się, czy mówię dobrze, bo mogłem pomylić wersje arduino"
+    (at 48.26 62.23 0)
+    (effects (font (size 1.27 1.27) (color 255 4 0 1)) (justify left bottom))
+    (uuid 439c0ec6-d35a-46dc-a737-067174f3ce95)
+  )
   (text "BATTERY" (at 13.97 16.51 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 0 0 0 1)) (justify left bottom))
     (uuid 796ded83-ef32-4025-a71c-d7e8ed0b631c)
+  )
+  (text "Szczególnie, że robienie RF (a tym bardziej drona) bez przerwań, nie wydaje się zbyt mądre :)"
+    (at 19.05 118.11 0)
+    (effects (font (size 1.27 1.27) (color 255 0 8 1)) (justify left bottom))
+    (uuid 87c67f20-b411-45f2-80c4-539899ded0cf)
   )
   (text "NRF24" (at 13.97 81.28 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 0 0 0 1)) (justify left bottom))
     (uuid 8c47cb58-5b5c-4c58-b817-9f49a80af09a)
   )
+  (text "Owszem, według specki powinno przyjąć 12.6V, ale poczytaj fora. Przy 12V te układy lubią padać. Szczególnie jak jest to niestabilne 12V"
+    (at 88.9 30.48 0)
+    (effects (font (size 1.27 1.27) (color 255 10 19 1)) (justify left bottom))
+    (uuid 9458e525-b147-4961-a5c7-3356d3a0ba2a)
+  )
   (text "AMS1117 (3.3V)" (at 13.97 50.8 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 0 0 0 1)) (justify left bottom))
     (uuid d67d7f06-8141-41d4-aff7-f3546f026610)
+  )
+  (text "Jak dobrze kojarzę, to na tych arduino siedzi AMS. Czemu nie zasilać prosto z pinu 3.3V? Nie masz raczej tak dużych prądów"
+    (at 40.64 58.42 0)
+    (effects (font (size 1.27 1.27) (color 255 0 15 1)) (justify left bottom))
+    (uuid e1303345-7258-4c19-a44b-4a13103abde4)
+  )
+  (text "IMO nierozsądnym jest nieprowadzić pinu IRQ. Możesz go nie użyć w kodzie, ale dobrze zostawić sobie taką możliwość. "
+    (at 19.05 115.57 0)
+    (effects (font (size 1.27 1.27) (color 255 32 34 1)) (justify left bottom))
+    (uuid eaee6714-9736-4618-8087-305a33bea987)
   )
 
   (label "MOSI" (at 20.32 97.79 180) (fields_autoplaced)

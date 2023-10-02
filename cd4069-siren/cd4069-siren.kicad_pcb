@@ -2056,6 +2056,12 @@
   (gr_text "|CD4069 Siren|" (at 98.1 50.7) (layer "F.SilkS") (tstamp 9772fba0-6201-4e6c-bf3d-50a5ea412f6c)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
+  (gr_text "To może iść pod piezo1" (at 113.025 72.275) (layer "User.8") (tstamp eaf8e6f1-672f-45d7-b4db-018530515abe)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "A to na warstwie F.Cu" (at 109.5 73.625) (layer "User.8") (tstamp f8a4f053-f917-4561-88a5-da204a4d2107)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 98.2 78.46) (end 98.97 79.23) (width 0.25) (layer "F.Cu") (net 1) (tstamp 15db567d-3290-441b-861a-991ffd798d86))
   (segment (start 98.2 68.15) (end 98.2 78.46) (width 0.25) (layer "F.Cu") (net 1) (tstamp 67f2d67c-ff39-41c5-82df-b7de1f1fe0cb))
