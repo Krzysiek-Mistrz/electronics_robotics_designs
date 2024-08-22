@@ -1,0 +1,11 @@
+Added Component: Designator=R1(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3_EN Pin=R1-1
+Added Pin To Net: NetName=V_IN Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Member To Class: ClassName=pwr_regulator Member=Component R1 10K
+Added Member To Class: ClassName=pwr_regulator Member=Component R2 10K
