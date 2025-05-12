@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "project_parts")(type "KiCad")(uri "${KIPRJMOD}/project_parts.pretty")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "/home/krzychu/Documents/Elektronika/kicad_pcbs/additionalFiles/Graphics.pretty")(options "")(descr ""))
+)
