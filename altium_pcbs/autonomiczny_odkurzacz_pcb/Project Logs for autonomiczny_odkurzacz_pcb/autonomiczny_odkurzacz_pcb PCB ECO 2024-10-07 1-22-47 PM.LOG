@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Designator: OldDesignator= NewDesignator=*2
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=BNO NewDesignator=U1
+Change Component Designator: OldDesignator=DRV NewDesignator=U5
+Change Component Designator: OldDesignator=XL2011 NewDesignator=U3
+Change Net Name : Old Net Name=SCL New Net Name=SCL
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component *1 conn_15
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component *2 batt
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component C2 a2m8_lidar
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component C4 motor_conn
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U1 BNO055
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U2 TEENSY
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U3 XL2011E1
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U4 LORA RA-02
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U5 DRV8833PWPR

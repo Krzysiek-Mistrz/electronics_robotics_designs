@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin C2-0
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C2-3
+Change Net Name : Old Net Name=SCL New Net Name=SCL
+Add Class Member: Failed to add class member : Component C2 a2m8_lidar

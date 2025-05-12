@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Designator: OldDesignator= NewDesignator=*2
+Change Component Designator: OldDesignator= NewDesignator=U4
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component *2 batt
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component R2 4.7k
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component R3 ERJ-8GEY0R00V
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U4 LORA RA-02
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component U5 DRV8833PWPR

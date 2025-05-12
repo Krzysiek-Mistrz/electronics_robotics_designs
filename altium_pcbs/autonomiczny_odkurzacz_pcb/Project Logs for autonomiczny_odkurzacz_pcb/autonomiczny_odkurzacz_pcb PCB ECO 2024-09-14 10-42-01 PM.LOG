@@ -1,0 +1,6 @@
+Added Component: Designator=C2(PCBComponent_1)
+Added Pin To Net: NetName=+5 Pin=C2-0
+Added Pin To Net: NetName=TX1 Pin=C2-1
+Added Pin To Net: NetName=RX1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-3
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component C2 a2m8_lidar

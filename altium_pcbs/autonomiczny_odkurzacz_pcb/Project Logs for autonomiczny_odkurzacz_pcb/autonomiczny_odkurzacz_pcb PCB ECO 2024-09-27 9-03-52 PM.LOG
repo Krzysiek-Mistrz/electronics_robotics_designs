@@ -1,0 +1,15 @@
+Change Component Comment : Designator=C3 Old Comment=tcrt New Comment=tcrt5000
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Added Component: Designator=*2(conn_2)
+Added Pin To Net: NetName=GND Pin=*2-0
+Added Pin To Net: NetName=+12 Pin=*2-1
+Change Net Name : Old Net Name=SCL New Net Name=SCL
+Added Member To Class: ClassName=autonomiczny_odkurzacz_sch Member=Component *2 batt

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [autonomiczny_odkurzacz_pcb.PcbDoc]
+   Generated File[autonomiczny_odkurzacz_pcb-Plated.TXT]
+   Generated File[autonomiczny_odkurzacz_pcb.LDP]
+   Generated File[autonomiczny_odkurzacz_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:59:50 PM On 2024-10-07

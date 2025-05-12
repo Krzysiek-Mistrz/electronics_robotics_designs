@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R5 Old Comment=ERJ-8GEY0R00V New Comment=300R
+Change Component Comment : Designator=R6 Old Comment=ERJ-8GEY0R00V New Comment=300R
+Change Component Designator: OldDesignator=*1 NewDesignator=C4
+Change Component Designator: OldDesignator=C* NewDesignator=C3
+Change Component Designator: OldDesignator=U* NewDesignator=U5
